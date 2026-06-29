@@ -24,5 +24,5 @@ Supports **Windows**, **macOS** and **Linux**.
 Clone the repository or simply download `shutdown.py`:
 
 ```bash
-git clone https://github.com/DMN-Security/Shutdown-script.git
-cd Shutdown-script
+git clone https://github.com/DMN-Security/shutdown-script.git
+cd shutdown-script
